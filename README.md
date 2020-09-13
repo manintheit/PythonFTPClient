@@ -1,1 +1,3 @@
 # PythonFTPClient
+
+This is the implementation of FTP client with Python with extended option... It is able to do md5sum remote files and gets only changed files...
